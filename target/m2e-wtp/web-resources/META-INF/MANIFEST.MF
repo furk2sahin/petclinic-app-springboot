@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: petclinic
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Furkan
+Implementation-Vendor-Id: com.furkansahin
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/petclinic
+Created-By: Maven Integration for Eclipse
+
